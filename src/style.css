@@ -198,6 +198,10 @@ div {
   padding: 5pt;
 }
 
+small {
+    color: black;
+}
+
 .container {
     margin-right: 50px;
 }
